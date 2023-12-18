@@ -53,6 +53,12 @@ html {
   transform: scaleX(1);
 }
 
+.container {
+  align-items: center;
+  padding: 2%;
+  position: relative;
+}
+
 .facts {
   background-color: #000;
   background-position: center;
